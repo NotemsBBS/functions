@@ -76,5 +76,8 @@ If you are still dissatisfied with the appeal result, you can request a jury wit
 2. The jury requires the participation of at least half of the administrators, and you can also request one to two verified members to participate;
 3. The jury's decision is final and cannot be appealed.
 
+
 ### (II) Malicious Appeals
 If the facts are clear and the evidence is conclusive, and the person still appeals with an extremely bad attitude, the site management team can extend the penalty period to 1.2 to 1.5 times the original period and revoke the right to appeal.
+
+## Notice:If you register an account, it means that you have carefully read and fully agree to the terms of this site.
